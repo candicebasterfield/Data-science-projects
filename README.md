@@ -1,5 +1,6 @@
+This repo contains some fun data science projects I’ve played around with using Kaggle datasets:
 
-| Project number | Title | Description |
+**| Title | Description |**
 | :-----------: | ----------- |----------- |
 | [Instacart]| The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
 | Statistical data analysis | Perform hypothesis testing to determine if there is a statistically significant difference in revenue for pre-paid mobile plans |
